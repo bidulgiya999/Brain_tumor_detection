@@ -1,7 +1,7 @@
 # Project_brain_tumor_detection
 YOLO
 
-with several brain tumor datas , we adjusted YOLOv5n, YOLOv8n, YOLOv11n for the detection and to compare the results respectively
+Using several brain tumor datasets, we adjusted YOLOv5n, YOLOv8n, and YOLOv11n models for detection and compared the results respectively.
 
 ![YOLO_메인화면](https://github.com/user-attachments/assets/cbd945b2-9179-4351-b4d2-0b852193e0c0)
 
